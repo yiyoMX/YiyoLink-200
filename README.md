@@ -19,6 +19,6 @@ Features?
 - Small footprint.
 
 How does it looks?
-![alt text](/Gallery/YiyoLink-200.jpg "YiyoLink-200")
+![alt text](/Gallery/YiyoLink-200.jpg "YiyoLink-200-v1")
 
 
