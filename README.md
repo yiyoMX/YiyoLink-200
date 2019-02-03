@@ -18,6 +18,9 @@ Features?
 - Exposed pwr pads to solder external charging source. (wireless charging? - not tested)
 - Small footprint.
 
+Limitations.
+-Due to the version of BLE, only 20 bytes are allowed per write.
+
 How does it looks?
 ![alt text](/Gallery/YiyoLink-200.jpg "YiyoLink-200-v1")
 
